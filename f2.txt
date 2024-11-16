@@ -1,2 +1,6 @@
 There are some changes in f2 .txt
+<<<<<<< HEAD
 There are some changes made in feature branch at local repository
+=======
+There are some changes made in feature branch at remote repository
+>>>>>>> c8de3a1724a23a6b77d51d529ee2ddf095a956dc
