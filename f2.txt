@@ -1,1 +1,2 @@
-There are some changes in f2 .txt:
+There are some changes in f2 .txt
+There are some changes made in feature branch at remote repository
